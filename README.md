@@ -2,6 +2,8 @@
 
 Простой веб-интерфейс для отправки и получения текстовых сообщений в WhatsApp через [GREEN-API](https://green-api.com).
 
+Демо: https://green-mjdb8liyy-dimash95s-projects.vercel.app/
+
 ## Возможности
 
 - Вход по `idInstance`, `apiTokenInstance` и `apiUrl` из личного кабинета GREEN-API
@@ -18,7 +20,7 @@ React 19, Vite, CSS
 Нужен Node.js 20.19+ или 22.12+.
 
 ```bash
-git clone <ссылка на репозиторий>
+git clone https://github.com/Dimash95/green-api.git
 cd green-api
 npm install
 npm run dev
